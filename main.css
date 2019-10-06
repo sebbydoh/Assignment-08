@@ -17,10 +17,10 @@ header {
 a:link, a:visited, a:active {
 	border: 2px solid lightblue;
 	border-radius: 2px;
-	color: #ffff00;
+	color: #840606;
 }
 
-a:hover {
+a:hover, a:focus {
 	background-color: #ffff00;
 	color: #ffaa50;
 }
