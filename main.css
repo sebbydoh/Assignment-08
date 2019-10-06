@@ -1,6 +1,6 @@
 body {
 	background-color: #222222;
-	color: #666666;
+	color: #5CEDD8;
 	font-size: 18px;
 	padding: 1em 8em;
 }
@@ -31,9 +31,9 @@ table {
 }
 
 table td {
-	background-color: #dd0000;
+	background-color: #A4C6A4;
 	border: 1px solid #000000;
-	color: #ffaa50;
+	color: #6B1259;
 	margin: 0;
 	padding: .5em;
 }
